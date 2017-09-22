@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CancerCell::processStep(Grid&amp;):CancerCell.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "myGrid.getPopulation(cancerCellCoordinates.x, cancerCellCoordinates.y)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CancerCell::CancerCell(int, int, Grid&amp;):CancerCell.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "myGrid.getPopulation(cancerCellCoordinates.x, cancerCellCoordinates.y)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pete.getPopulation(x,y)">
+            </PersistentString>
+            <PersistentString
+               value = "data[x][y]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Grid::mdeStaysAt(int, int):Grid.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "CancerCell::processStep(Grid&amp;, std::__1::vector&lt;CancerCell, std::__1::allocator&lt;CancerCell&gt; &gt;&amp;):CancerCell.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "myGrid.getPopulation(cancerCellCoordinates.x, cancerCellCoordinates.y)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
